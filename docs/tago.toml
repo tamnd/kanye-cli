@@ -1,0 +1,10 @@
+title       = "kanye"
+baseURL     = "https://kanye-cli.tamnd.com/"
+description = "A command line for kanye."
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/kanye-cli"
